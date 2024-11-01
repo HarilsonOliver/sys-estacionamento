@@ -1,0 +1,14 @@
+C:\Users\Harilson\Documents\Projetos\DIO\sys-estacionamento\bin\Debug\net8.0\sys-estacionamento.exe
+C:\Users\Harilson\Documents\Projetos\DIO\sys-estacionamento\bin\Debug\net8.0\sys-estacionamento.deps.json
+C:\Users\Harilson\Documents\Projetos\DIO\sys-estacionamento\bin\Debug\net8.0\sys-estacionamento.runtimeconfig.json
+C:\Users\Harilson\Documents\Projetos\DIO\sys-estacionamento\bin\Debug\net8.0\sys-estacionamento.dll
+C:\Users\Harilson\Documents\Projetos\DIO\sys-estacionamento\bin\Debug\net8.0\sys-estacionamento.pdb
+C:\Users\Harilson\Documents\Projetos\DIO\sys-estacionamento\obj\Debug\net8.0\sys-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harilson\Documents\Projetos\DIO\sys-estacionamento\obj\Debug\net8.0\sys-estacionamento.AssemblyInfoInputs.cache
+C:\Users\Harilson\Documents\Projetos\DIO\sys-estacionamento\obj\Debug\net8.0\sys-estacionamento.AssemblyInfo.cs
+C:\Users\Harilson\Documents\Projetos\DIO\sys-estacionamento\obj\Debug\net8.0\sys-estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Harilson\Documents\Projetos\DIO\sys-estacionamento\obj\Debug\net8.0\sys-estacionamento.dll
+C:\Users\Harilson\Documents\Projetos\DIO\sys-estacionamento\obj\Debug\net8.0\refint\sys-estacionamento.dll
+C:\Users\Harilson\Documents\Projetos\DIO\sys-estacionamento\obj\Debug\net8.0\sys-estacionamento.pdb
+C:\Users\Harilson\Documents\Projetos\DIO\sys-estacionamento\obj\Debug\net8.0\sys-estacionamento.genruntimeconfig.cache
+C:\Users\Harilson\Documents\Projetos\DIO\sys-estacionamento\obj\Debug\net8.0\ref\sys-estacionamento.dll
